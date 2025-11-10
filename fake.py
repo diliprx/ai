@@ -6,7 +6,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report 
  
 # Step 1: Load the dataset 
-data = pd.read_csv('C:/Users/dhari/OneDrive/Desktop/AI IN CS/WELFake_Dataset.csv') 
+data = pd.read_csv('Fake_Dataset.csv') 
  
 # Step 2: Preprocess the data 
 # Drop any null rows 
